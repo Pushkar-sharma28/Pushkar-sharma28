@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pushkar</h1>
 <h3 align="center">A passionate Devops & Cloud enthusiast.</h3>
 
-- 🔭 I’m currently working on **Kubernetes**
+- 🔭 I’m currently working on **Devops in general**
 
-- 🌱 I’m currently learning **Kubernetes , Docker , Terraform , AWS , Ansible**
+- 🌱 I’m currently upgrading my skills in **Kubernetes , Docker , Terraform , AWS , Ansible , Jenkins**
 
-- 💬 Ask me about **Kubernetes , Terraform**
+- 💬 Ask me about **Cloud and Devops**
 
 - 📫 How to reach me **pushkarsharma8800@gmail.com**
 
